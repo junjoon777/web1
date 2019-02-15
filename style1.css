@@ -1,0 +1,60 @@
+p {
+	color: green
+}
+
+a:link {
+    color: #FF2400;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: green;
+}
+
+body {
+	font-size: 18px;
+	color: navy;
+	background-color: pink;
+}
+
+
+h1 {
+	font-size: 32px;
+	color: black;
+    text-align: center
+}
+
+ul {
+	color: blue;
+}
+
+
+h2 {
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 6px;
+    border-right-width: 6px;
+    border-color: red;
+    background-color: white
+}
+
+td {
+	border: 1px solid #999;
+	padding: 0.1em 1em;
+	border-style: solid;
+    border-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-color: blue;
+    background-color: yellow
+}
+	
+
+	
